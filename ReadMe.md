@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE (Core) student @ Echelon Institute of Technology | Coding, problem solving & exploring new tech | PS5 gamer 🎮 | Always learning, always upgrading.
+I am a Computer Science Engineering (CSE Core) student at EIT Faridabad, passionate about technology, coding, and building solutions that create real-world impact
 
 
 ## 🌐 Socials:
