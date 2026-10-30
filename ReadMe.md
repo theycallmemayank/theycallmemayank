@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Computer Science Engineering (CSE Core) student at EIT Faridabad, passionate about technology, coding, and building solutions that create real-world impact
-
+ɪ ᴀᴍ ᴀ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ (ᴄꜱᴇ ᴄᴏʀᴇ) ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ ᴇɪᴛ ꜰᴀʀɪᴅᴀʙᴀᴅ, ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ᴄᴏᴅɪɴɢ, ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ꜱᴏʟᴜᴛɪᴏɴꜱ ᴛʜᴀᴛ ᴄʀᴇᴀᴛᴇ ʀᴇᴀʟ-ᴡᴏʀʟᴅ ɪᴍᴘᴀᴄᴛ
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank.5025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-kumar-60596442b?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vandana198307@gmail.com) 
@@ -12,7 +11,7 @@ I am a Computer Science Engineering (CSE Core) student at EIT Faridabad, passion
 ![](https://streak-stats.demolab.com/?user=theycallmemayank&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=theycallmemayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
